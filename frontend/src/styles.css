@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h4 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list-group-item {
+    font-family: 'Roboto', sans-serif;
+}
